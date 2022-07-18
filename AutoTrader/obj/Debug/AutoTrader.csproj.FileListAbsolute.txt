@@ -1,0 +1,7 @@
+C:\Users\Carmine\source\repos\AutoTrader\AutoTrader\bin\Debug\AutoTrader.exe.config
+C:\Users\Carmine\source\repos\AutoTrader\AutoTrader\bin\Debug\AutoTrader.exe
+C:\Users\Carmine\source\repos\AutoTrader\AutoTrader\bin\Debug\AutoTrader.pdb
+C:\Users\Carmine\source\repos\AutoTrader\AutoTrader\obj\Debug\AutoTrader.csproj.CoreCompileInputs.cache
+C:\Users\Carmine\source\repos\AutoTrader\AutoTrader\obj\Debug\AutoTrader.exe
+C:\Users\Carmine\source\repos\AutoTrader\AutoTrader\obj\Debug\AutoTrader.pdb
+C:\Users\Carmine\source\repos\AutoTrader\AutoTrader\obj\Debug\AutoTrader.csproj.AssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Carmine\source\repos\AutoTrader\AutoTrader\bin\Release\AutoTrader.exe.config
+C:\Users\Carmine\source\repos\AutoTrader\AutoTrader\bin\Release\AutoTrader.exe
+C:\Users\Carmine\source\repos\AutoTrader\AutoTrader\bin\Release\AutoTrader.pdb
+C:\Users\Carmine\source\repos\AutoTrader\AutoTrader\obj\Release\AutoTrader.csproj.CoreCompileInputs.cache
+C:\Users\Carmine\source\repos\AutoTrader\AutoTrader\obj\Release\AutoTrader.exe
+C:\Users\Carmine\source\repos\AutoTrader\AutoTrader\obj\Release\AutoTrader.pdb
